@@ -15,11 +15,18 @@ completedColumns:
 
 ## Done
 
-- [hacer-la-matafora-de-la-app](tasks/hacer-la-matafora-de-la-app.md)
-- [realizar-las-historias-de-usuario](tasks/realizar-las-historias-de-usuario.md)
-- [realizar-los-casos-de-uso](tasks/realizar-los-casos-de-uso.md)
-- [crear-el-road-map-de-la-app](tasks/crear-el-road-map-de-la-app.md)
-- [crear-el-documento-de-prácticas-de-códificación-propia-de-la-app](tasks/crear-el-documento-de-prácticas-de-códificación-propia-de-la-app.md)
-- [crear-el-diagrama-de-flujo](tasks/crear-el-diagrama-de-flujo.md)
-- [codificación-de-la-app](tasks/codificación-de-la-app.md)
-- [crear-los-casos-de-prueba](tasks/crear-los-casos-de-prueba.md)
+- [casos-de-uso](tasks/casos-de-uso.md)
+- [documento-de-estándares-de-programación](tasks/documento-de-estándares-de-programación.md)
+- [historias-de-usuario](tasks/historias-de-usuario.md)
+- [requisitos](tasks/requisitos.md)
+- [matafora](tasks/matafora.md)
+- [diagrama-de-clases](tasks/diagrama-de-clases.md)
+- [diagrama-de-flujo](tasks/diagrama-de-flujo.md)
+- [diagrama-conceptual](tasks/diagrama-conceptual.md)
+- [roadmap](tasks/roadmap.md)
+- [pair-programming](tasks/pair-programming.md)
+- [código](tasks/código.md)
+- [pruebas-unitarias](tasks/pruebas-unitarias.md)
+- [casos-de-prueba](tasks/casos-de-prueba.md)
+
+<!-- ABRIR LA CARPETA DE tasks PARA ENCONTRAR LA DESIGNACIÓN DE ROLES Y ARTEFACTOS DENTRO DEL PROYECTO -->

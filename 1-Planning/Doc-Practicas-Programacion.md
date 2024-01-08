@@ -50,7 +50,7 @@ Kenny Pinchao
 
 1. **Comentarios de Confirmación:**
    - Se incluirá comentarios claros al confirmar cambios para explicar el propósito de la confirmación.
-   - Ejemplo: `git commit -m "Agrega lógica de movimiento de jugadores"`.
+   - Ejemplo: `git commit -m "Agregar lógica de movimiento de jugadores"`.
 
 2. **Ramas de desarrollo:**
    - Se utilizará ramas aparte, en las que cada desarrollador podrá probar, arreglar o agregar aspectos de todo tipo al proyecto.
